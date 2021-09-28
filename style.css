@@ -1,0 +1,36 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0%;
+    box-shadow: 5px 5px 5px blue;
+}
+ 
+.note
+{
+    font-size: 15px;
+    color: red ;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: yellowgreen;
+    bottom: 0px;
+    width: 100%;
+    background-color: pink;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+   
+    
+}
+
+canvas 
+{
+    border: 5px solid palevioletred;
+    border:10px
+    box-shadow: 5px 5px 5px 5px blue;
+}
